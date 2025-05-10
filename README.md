@@ -8,7 +8,8 @@
   <p>I build cool stuff by mixing code, experiments, and networking. Let’s team up and make something awesome! 🚀 🚀</p>
 
   <!-- Social Badges -->
- <a href="https://img.shields.io"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/></a><a href="https://img.shields.io/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCODE"/></a><a href="https://img.shields.io/"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino Badge"/></a><a href="https://img.shields.io/"><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco badges"/></a><a href="https://img.shields.io/"><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox badges"/></a> 
+ <a href="https://img.shields.io"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/></a>
+ <a href="https://img.shields.io/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCODE"/></a><a href="https://img.shields.io/"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino Badge"/></a><a href="https://img.shields.io/"><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco badges"/></a><a href="https://img.shields.io/"><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox badges"/></a> 
  
 
 
