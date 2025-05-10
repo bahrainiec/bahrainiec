@@ -15,9 +15,12 @@
 ****
 ## 🌟 About Me
                                     Exploring: [Technology and Programming Language ]
-<a href="https://img.shields.io/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt=" badges"/></a> <a href="https://img.shields.io/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=" badges"/></a><a href="https://img.shields.io/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-" alt=" badges"/></a><a href="https://img.shields.io/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-" alt="badges"/></a><a href="https://img.shields.io/"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="badges"/></a>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt=" badges"/></a> <a href="https://img.shields.io/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=" badges"/></a><a href="https://img.shields.io/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+" alt=" badges"/></a>
+
+<a href="https://img.shields.io/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="badges"/> 
+
+</a><a href="https://img.shields.io/"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="badges"/></a>
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F7CA18&size=20¢er=true&vCenter=true&width=450&lines=Code.+Create.+Repeat." alt="Typing Animation"/>
   <p><em>"The best code is the one that solves problems and tells a story."</em></p>
